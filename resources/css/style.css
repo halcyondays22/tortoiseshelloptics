@@ -11,6 +11,8 @@ body {
 
 .main_body {
   font-family: Helvetica;
+  line-height: 1.4;
+  font-size: 18px;
   display: flex;
   flex-direction: column;
   align-items: center;
